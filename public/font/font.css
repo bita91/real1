@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "IRANSansBold";
+  src: url("/font/IRANSansXBold.woff") format("woff"),
+    url("/font/IRANSansXBlack.woff") format("woff"),
+    url("/font/IRANSansXDemiBold.woff") format("woff"),
+    url("/font/IRANSansXExtraBold.woff") format("woff"),
+    url("/font/IRANSansXLight.woff") format("woff"),
+    url("/font/IRANSansXMedium.woff") format("woff"),
+    url("/font/IRANSansXRegular.woff") format("woff"),
+    url("/font/IRANSansXThin.woff") format("woff"),
+    url("/font/IRANSansXUltraLight.woff") format("woff");
+
+  font-size: 8px;
+}
